@@ -4,6 +4,11 @@
 
 An AI application framework for Java developers built on top of Spring AI that provides seamless integration with Alibaba Cloud QWen LLM services and cloud-native infrastructures.
 
+## Build the code
+1. Clone the master branch
+2. Run ``` mvn spring-javaformat:apply```
+3. Run ``` mvn clean package```
+ 
 ## Get Started
 
 Please refer to [quick start](https://sca.aliyun.com/ai/get-started/) for how to quickly add generative AI to your Spring Boot applications.
