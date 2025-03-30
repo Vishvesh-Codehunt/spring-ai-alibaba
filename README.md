@@ -6,8 +6,9 @@ An AI application framework for Java developers built on top of Spring AI that p
 
 ## Build the code
 1. Clone the master branch
-2. Run ``` mvn spring-javaformat:apply```
-3. Run ``` mvn clean package```
+2. ``` cd spring-ai-alibaba```
+3. Run ``` mvn spring-javaformat:apply```
+4. Run ``` mvn clean package```
  
 ## Get Started
 
